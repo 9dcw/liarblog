@@ -1,5 +1,0 @@
-####CEO Admits to Lying During SEC Disclosure: Shares Embarrassing Story About Elephant.
-” “believe,” "plan," "estimate," "expect," "intend," "will," “would”, "could," "may," "potential," "predict," "project," or similar expressions intended to identify forward-looking statements. Our forward-looking statements are based largely on our current expectations and projections about future events and financial trends that we believe may affect our financial condition, results of operations, business strategy, and financial needs. Our forward-looking statements are subject to a number of risks and uncertainties, including the risks and uncertainties described in our filings with the Securities and Exchange Commission. Actual results may differ materially from those set forth in the forward-looking statements.
-
-
-Original Release: https://www.globenewswire.com/news-release/2023/02/10/2606210/0/en/Rezolute-Reports-Second-Quarter-Fiscal-2023-Results-and-Highlights-Company-Progress.html
