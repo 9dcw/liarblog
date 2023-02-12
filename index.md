@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is a blog that gives you fake interviews based on real public company disclosures.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+It's funny.
