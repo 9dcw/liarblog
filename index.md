@@ -1,8 +1,5 @@
----
-title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
----
+Here you can say lots of fun things about your site.
 
-There isn't much going on here yet, but watch this space
+Maybe say a some things about yourself.
+
+Or maybe what you plan to blog about.

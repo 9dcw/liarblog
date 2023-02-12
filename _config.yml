@@ -1,72 +1,42 @@
-# Set theme
-remote_theme: daviddarnes/alembic@main
+title: "My Blogs Name"
+author: "Default Author Name"
+description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
-# File excludes
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+# Email / Social media user names used by the minima theme:
+# All of these are optional and can be removed or commented out
+email: "example@mail.com"
+twitter_username: "twitteruser"
+github_username: "githubuser"
+linkedin_username: "linkedinuser"
+#facebook_username: username
+#flickr_username: username
+#instagram_username: username
+#pinterest_username: username
+#youtube_username: username
+#googleplus_username: +username
 
-# Set plugins
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-- jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
 
-# Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
-permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+titles_from_headings:
+  strip_title: true
+  collections: true
 
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
-
-# Header nav
-navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
-
-# Footer nav
-navigation_footer:
-- title: Back to top
-  url: "#top"
-
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
-
-# Collection settings
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
-      type: "posts"
+      type: post
     values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
+      tags: Other
