@@ -1,3 +1,3 @@
-This is a blog that gives you fake interviews based on real public company disclosures.
+This is a blog with fake interviews full of fabricated information basd on real public company disclosures.
 
 It's funny.
